@@ -54,5 +54,4 @@ LOCATIONS = {
     # your relative path/filenames should usually be without version
     # information, because either the base dir/url is exactly for this
     # version or the mapping will care for accessing this version.
-    
 }
